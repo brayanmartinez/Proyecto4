@@ -14,4 +14,4 @@ la implementación de una modulación QPSK. El código consiste en 6 funciones l
 
 Finalmente se grafica la imagen recuperada. 
 
-Complementariamente se realizan pruebas de estacionaridad y ergodicidad para determinar si la señal es estacionaria en sentido amplio y la determinación densidad espectral de potencia 
+Complementariamente se realizan pruebas de estacionaridad y ergodicidad mediante las cuales se determinada que la señal modulada es estacionaria en sentido amplio. Tambien se determina la densidad espectral de potencia 
